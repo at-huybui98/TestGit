@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         //ahihi
         //alolo
         //test update
+        //ahihi
+        //hic hic
     }
 }
