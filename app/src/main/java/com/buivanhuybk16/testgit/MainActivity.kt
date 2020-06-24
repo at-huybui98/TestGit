@@ -9,17 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //hello huy
-        // anh yêu em
-        //ahihi
-        //alolo
-        //test update
-        //ahihi
-        //hic hic
-        //huy pro vo doi
-        //123
-        //aa
-        //alolo
-        //alolo
+
     }
 
 }
