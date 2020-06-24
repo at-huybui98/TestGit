@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         //anh yeu em
         //pro anh huy
         // anh huy pro/zzzzz
+        //alo
 
     }
 
